@@ -4,6 +4,9 @@
 # Load NVM
 source ~/.nvm/nvm.sh
 
+# Change to project directory
+cd "$(dirname "$0")"
+
 # Build project
 npm run build
 
