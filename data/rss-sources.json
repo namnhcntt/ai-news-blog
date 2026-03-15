@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "category": "AI",
+      "language": "en"
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+      "category": "AI",
+      "language": "en"
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "category": "AI",
+      "language": "en"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "category": "Tech",
+      "language": "en"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml",
+      "category": "AI",
+      "language": "en"
+    },
+    {
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/news/rss",
+      "category": "AI",
+      "language": "en"
+    }
+  ],
+  "keywords": {
+    "ai": [
+      "artificial intelligence",
+      "machine learning",
+      "deep learning",
+      "neural network",
+      "LLM",
+      "GPT",
+      "Claude",
+      "ChatGPT",
+      "AI model",
+      "generative AI"
+    ],
+    "tech": [
+      "startup",
+      "innovation",
+      "technology",
+      "software",
+      "platform"
+    ]
+  }
+}
