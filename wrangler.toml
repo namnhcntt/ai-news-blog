@@ -7,6 +7,7 @@ pages_build_output_dir = "dist"
 # SITE_URL = "https://your-subdomain.pages.dev"
 
 # Build configuration
-[build]
-command = "npm run build"
-cwd = "."
+# Build is handled by GitHub Actions
+# [build]
+# command = "npm run build"
+# cwd = "."
